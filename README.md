@@ -5,7 +5,7 @@ I will be using the following 120 day curriculum as structure inspiration: https
 
 | Day           | Summary of Tasks  |
 | ------------- | ------------- |
-| Day 1         |   |
+| Day 1 (1-27-25)         |   |
 
 
 
