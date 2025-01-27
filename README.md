@@ -7,3 +7,8 @@ I will be using the following 120 day curriculum as structure inspiration: https
 | ------------- | ------------- |
 | Day 1         | Content Cell  |
 
+
+
+If you are feeling inspired or want to join the challenge I highly encourage anyone to join Umar Jamil's amazing discord: https://discord.gg/pdAXevJs
+Original CUDA Challenge repo: https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md
+Youtube Video that inspired me: https://www.youtube.com/watch?v=zy8ChVd_oTM
