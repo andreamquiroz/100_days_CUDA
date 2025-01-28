@@ -6,7 +6,7 @@ I will be using the following 120 day curriculum as structure inspiration: https
 
 | Day           | Summary of Tasks  |
 | ------------- | ------------- |
-| Day 1 (1-27-25)         |   |
+| Day 1 (1-27-25)  | - Read PMPP Chapter 1, Sections 1.1-1.4  |
 
 
 
